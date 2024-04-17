@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BenasBenio
+- 👋 Hi, I’m @Benicio Pareschi de Moraes
 - 👀 I’m interested in learn more of porgraming
 - 🌱 I’m currently learning javascript and html 5
 - 💞️ I’m looking to collaborate on cool projects
