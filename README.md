@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Benicio Pareschi de Moraes
-- 👀 I’m interested in learn more of porgraming
-- 🌱 I’m currently learning javascript and html 5
+- 👀 I’m interested in learn more of porgraming and data science
+- 🌱 I’m currently learning node.js and SQL
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me @pxreschx
 - 😄 Pronouns: he/his
