@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Benicio Pareschi de Moraes
+- 👀 I’m interested in learn more of porgraming and data science
+- 🌱 I’m currently learning node.js, MongoDB and Python
+- 💞️ I’m looking to collaborate on cool projects
+- 📫 How to reach me @pxreschx on Instagram
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I study in FIAP School
