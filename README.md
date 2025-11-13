@@ -1,11 +1,8 @@
 ## __Oii, eu sou o Benicio Pareschi 😊__
 
-- 👋 Hi, I’m @Benicio Pareschi de Moraes
 - 👀 I’m interested in learn more of porgraming and data science
 - 🌱 I’m currently learning node.js, MongoDB and Python
-- 💞️ I’m looking to collaborate on cool projects
-- 📫 How to reach me @pxreschx on Instagram
-- 😄 Pronouns: he/him
+- 🤯 I'm currently studing in Fiap School at Sophomore year 
 
 <a href="https://github.com/BenasBenio" target="_blank" rel="noopener">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BenasBenio&theme=transparent&show_icons=true"
