@@ -1,8 +1,8 @@
-## __Oii, eu sou o Benicio Pareschi 😊__
+## __Olá, eu sou o Benicio Pareschi __
 
-- 👀 I’m interested in learn more of porgraming and data science
-- 🌱 I’m currently learning node.js, MongoDB and Python
-- 🤯 I'm currently studing in Fiap School at Sophomore year 
+-  Atualmente procuro estudar sobre data science, machine and learning e programação,
+-  Estou estudando Python, Ionic e React
+-  Estou no ultimo ano do ensino médio tecnico na Fiap School 
 
 <a href="https://github.com/BenasBenio" target="_blank" rel="noopener">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BenasBenio&theme=transparent&show_icons=true"
