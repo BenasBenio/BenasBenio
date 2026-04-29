@@ -1,8 +1,9 @@
-## __Olá, eu sou o Benicio Pareschi __
+## Olá, eu sou o Benicio Pareschi 
 
 -  Atualmente procuro estudar sobre data science, machine and learning e programação,
 -  Estou estudando Python, Ionic e React
--  Estou no ultimo ano do ensino médio tecnico na Fiap School 
+-  Estou no ultimo ano do ensino médio tecnico na Fiap School
+-  Estou trabalhando no meu TCC para a conclusão do meu curso Tecnico
 
 <a href="https://github.com/BenasBenio" target="_blank" rel="noopener">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BenasBenio&theme=transparent&show_icons=true"
