@@ -5,8 +5,6 @@
 -  Estou no ultimo ano do ensino médio tecnico na Fiap School
 -  Estou trabalhando no meu TCC para a conclusão do meu curso Tecnico
 
-##
-
 ## 🛠️ Linguagens e Tecnologias
 <div>
   <img alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,7 +18,7 @@
   <img alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
   <img alt="MongoDB" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg">
 </div>
-##
+
 ## Minhas Redes Sociais
 <div> 
   <a href="https://www.youtube.com/@BenasBenio" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
