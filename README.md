@@ -5,12 +5,6 @@
 -  Estou no ultimo ano do ensino médio tecnico na Fiap School
 -  Estou trabalhando no meu TCC para a conclusão do meu curso Tecnico
 
-<a href="https://github.com/BenasBenio" target="_blank" rel="noopener">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BenasBenio&theme=transparent&show_icons=true"
-       alt="Anurag's GitHub stats for BenasBenio" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenasBenio&theme=transparent&layout=compact"
-     alt="Top languages for BenasBenio" />
-</a>
 
 ##
 ### Linguagens e Softwares que tenho conhecimento
