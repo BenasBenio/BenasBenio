@@ -7,12 +7,7 @@
 - 📫 How to reach me @pxreschx on Instagram
 - 😄 Pronouns: he/him
 
-<a href="https://github.com/BenasBenio" target="_blank" rel="noopener">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BenasBenio&theme=transparent&show_icons=true"
-       alt="Anurag's GitHub stats for BenasBenio" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BenasBenio&theme=transparent&layout=compact"
-     alt="Top languages for BenasBenio" />
-</a>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 
